@@ -1,0 +1,33 @@
+body {
+  
+    font-family: Rock Salt;
+    font-size: 20px;
+    background-image:url(wood-background.jpeg);
+    color: azure
+  }
+  
+  img{ 
+    width: 200px;
+    height: 200px ;
+    border-color:orangered;
+    border-width: 500px;
+    
+      
+  }
+  .johnday {
+    width: 200px;
+    height: 200px ;
+    border-color:orangered;
+    border-width: 500px;
+  }
+  
+  span {
+    background-color: black;
+  }
+  
+  .hunt{
+   
+    color: azure;
+  }
+  
+  
